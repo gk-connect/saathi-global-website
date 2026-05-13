@@ -1,0 +1,34 @@
+[
+    {
+        "id": "svc-1",
+        "image": "/images/services/counselling.jpg",
+        "name": "Healthcare Recruitment",
+        "description": "Placement of B.Sc Nursing, GNM Nursing, Dialysis Technicians, Lab Technicians, and Allied Healthcare Professionals — for both freshers and experienced candidates, plus end-to-end hospital staffing solutions.",
+        "linkText": "Enquire Now",
+        "linkAction": "openEnquiryForm"
+    },
+    {
+        "id": "svc-2",
+        "image": "/images/services/course-advice.jpg",
+        "name": "Career Counseling & Admissions",
+        "description": "Guidance for higher education in India and abroad, admission support for nursing, paramedical, and professional courses, and personalized skill development & career planning.",
+        "linkText": "Enquire Now",
+        "linkAction": "openEnquiryForm"
+    },
+    {
+        "id": "svc-3",
+        "image": "/images/services/visa.jpg",
+        "name": "Overseas Opportunities",
+        "description": "Assistance for study abroad and international placements, complete documentation support, interview preparation, and pre-departure guidance.",
+        "linkText": "Enquire Now",
+        "linkAction": "openEnquiryForm"
+    },
+    {
+        "id": "svc-4",
+        "image": "/images/services/application.jpg",
+        "name": "Internship & Training Support",
+        "description": "Hospital internships for nursing and allied healthcare students, industry partnerships, academic collaborations, and professional finishing programs.",
+        "linkText": "Enquire Now",
+        "linkAction": "openEnquiryForm"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "test-1",
+        "name": "Sarah & Yohan",
+        "country": "Canada",
+        "image": "/images/testimonials/sarah-yohan.jpg",
+        "quote": "One of the best agencies to pursue our dreams. Highly recommended."
+    },
+    {
+        "id": "test-2",
+        "name": "Priya Sharma",
+        "country": "Australia",
+        "image": "/images/testimonials/priya.jpg",
+        "quote": "Saathi Global made my dream of studying in Australia a reality. Their guidance was invaluable."
+    },
+    {
+        "id": "test-3",
+        "name": "Rahul Patel",
+        "country": "United Kingdom",
+        "image": "/images/testimonials/rahul.jpg",
+        "quote": "Professional team, transparent process. Got my UK visa within weeks. Thank you Saathi Global!"
+    },
+    {
+        "id": "test-4",
+        "name": "Ananya Desai",
+        "country": "USA",
+        "image": "/images/testimonials/ananya.jpg",
+        "quote": "From university selection to visa approval, they were with me every step of the way."
+    }
+]

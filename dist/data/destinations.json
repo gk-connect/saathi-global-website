@@ -1,0 +1,56 @@
+[
+    {
+        "id": "dest-canada",
+        "country": "Canada",
+        "slug": "study-in-canada",
+        "flagImage": "/images/destinations/canada-flag.png",
+        "coverImage": "/images/destinations/canada.jpg",
+        "shortDescription": "Immigration friendly country, job-focused courses & post study work permit",
+        "featured": true
+    },
+    {
+        "id": "dest-usa",
+        "country": "USA",
+        "slug": "study-in-usa",
+        "flagImage": "/images/destinations/usa-flag.png",
+        "coverImage": "/images/destinations/usa.jpg",
+        "shortDescription": "Home to the world's top universities with cutting-edge research opportunities",
+        "featured": true
+    },
+    {
+        "id": "dest-uk",
+        "country": "United Kingdom",
+        "slug": "study-in-uk",
+        "flagImage": "/images/destinations/uk-flag.png",
+        "coverImage": "/images/destinations/uk.jpg",
+        "shortDescription": "Rich academic heritage with globally recognized degrees and diverse culture",
+        "featured": true
+    },
+    {
+        "id": "dest-australia",
+        "country": "Australia",
+        "slug": "study-in-australia",
+        "flagImage": "/images/destinations/australia-flag.png",
+        "coverImage": "/images/destinations/australia.jpg",
+        "shortDescription": "World-class education, vibrant student life and post-study work rights",
+        "featured": true
+    },
+    {
+        "id": "dest-germany",
+        "country": "Germany",
+        "slug": "study-in-germany",
+        "flagImage": "/images/destinations/germany-flag.png",
+        "coverImage": "/images/destinations/germany.jpg",
+        "shortDescription": "Tuition-free education at public universities with strong engineering programs",
+        "featured": false
+    },
+    {
+        "id": "dest-newzealand",
+        "country": "New Zealand",
+        "slug": "study-in-new-zealand",
+        "flagImage": "/images/destinations/nz-flag.png",
+        "coverImage": "/images/destinations/nz.jpg",
+        "shortDescription": "Safe, welcoming environment with quality education and stunning landscapes",
+        "featured": false
+    }
+]

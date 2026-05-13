@@ -1,0 +1,29 @@
+[
+    {
+        "id": "slider-1",
+        "heading": "CRS Calculator",
+        "subheading": "Calculate your points for Express Entry",
+        "backgroundImage": "/images/sliders/crs-bg.png",
+        "smallImage": "/images/sliders/crs-icon.png",
+        "linkText": "Learn More",
+        "linkAction": "openEnquiryForm"
+    },
+    {
+        "id": "slider-2",
+        "heading": "Migrate to Canada",
+        "subheading": "We're here to help you out!",
+        "backgroundImage": "/images/sliders/canada-bg.png",
+        "smallImage": "/images/sliders/canada-icon.png",
+        "linkText": "Learn More",
+        "linkAction": "openEnquiryForm"
+    },
+    {
+        "id": "slider-3",
+        "heading": "Study in Australia",
+        "subheading": "World-class education awaits you",
+        "backgroundImage": "/images/sliders/australia-bg.png",
+        "smallImage": "/images/sliders/australia-icon.png",
+        "linkText": "Learn More",
+        "linkAction": "openEnquiryForm"
+    }
+]

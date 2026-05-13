@@ -1,0 +1,29 @@
+[
+    {
+        "id": "evt-1",
+        "image": "/images/events/canada-admit-day.jpg",
+        "heading": "The Great Canada Admit Day 2026",
+        "date": "25th Apr 2026",
+        "time": "10.00 AM - 5.00 PM",
+        "buttonText": "Register Now",
+        "buttonAction": "openEnquiryForm"
+    },
+    {
+        "id": "evt-2",
+        "image": "/images/events/europe-fair.jpg",
+        "heading": "European Education Fair 2026",
+        "date": "9th May 2026",
+        "time": "10.00 AM - 3.00 PM",
+        "buttonText": "Register Now",
+        "buttonAction": "openEnquiryForm"
+    },
+    {
+        "id": "evt-3",
+        "image": "/images/events/uk-expo.jpg",
+        "heading": "UK University Expo 2026",
+        "date": "15th Jun 2026",
+        "time": "11.00 AM - 4.00 PM",
+        "buttonText": "Register Now",
+        "buttonAction": "openEnquiryForm"
+    }
+]
