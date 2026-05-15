@@ -7,11 +7,11 @@ export type NavChild = { href: string; label: string };
 export type NavLink = { href: string; label: string; children?: NavChild[] };
 
 const serviceLinks: NavChild[] = [
-  { href: "/services#healthcare-recruitment", label: "Healthcare Recruitment" },
-  { href: "/services#career-counseling-and-admissions", label: "Career Counseling & Admissions" },
+  { href: "/services#internship-training-support", label: "Internship & Training Support" },
   { href: "/services#overseas-opportunities", label: "Overseas Opportunities" },
-  { href: "/services#internship-and-training-support", label: "Internship & Training Support" },
-  { href: "/hospital-services", label: "Hospital Support Services" },
+  { href: "/services#health-care-recruitment", label: "Health Care Recruitment" },
+  { href: "/services#finishing-school", label: "Finishing School" },
+  { href: "/services#career-counseling", label: "Career Counseling" },
 ];
 
 const navLinks: NavLink[] = [
