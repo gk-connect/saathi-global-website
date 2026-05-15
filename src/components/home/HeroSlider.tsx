@@ -17,7 +17,7 @@ const slides = [
   },
   {
     id: 3,
-    heading: "Visa & Flight Booking Services",
+    heading: "Global Opportunities",
     subheading: "Complete end-to-end support for your journey abroad",
     image: "/images/hero/slide3.png",
   },
