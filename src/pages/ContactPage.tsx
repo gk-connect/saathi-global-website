@@ -14,7 +14,7 @@ const contactInfo = [
       </svg>
     ),
     title: "Visit Us",
-    lines: ["Kerala & Bangalore Offices", "See addresses below"],
+    lines: ["Kerala, Bangalore & Secunderabad Offices", "See addresses below"],
   },
   {
     icon: (
@@ -60,6 +60,13 @@ const offices = [
     phone: "+91 79947 76601",
     phoneHref: "tel:+917994776601",
   },
+  {
+    city: "Secunderabad",
+    name: "Saathi Global Solutions",
+    address: "25-40/73/6, E Anandbagh Main Road, Ananatha Saraswathi Nagar, Moula Ali, Secunderabad, Telangana",
+    phone: "+91 62383 68287",
+    phoneHref: "tel:+916238368287",
+  },
 ];
 
 export default function ContactPage() {
@@ -94,7 +101,7 @@ export default function ContactPage() {
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">Our Offices</h2>
                 <p className="text-gray-600">Drop by or give us a call — we&apos;d love to hear from you.</p>
               </div>
-              <div className="grid md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
                 {offices.map((office) => (
                   <div key={office.city} className="bg-white rounded-2xl border border-gray-200 p-6 md:p-8 hover:shadow-md transition-shadow">
                     <div className="flex items-center gap-3 mb-4">
