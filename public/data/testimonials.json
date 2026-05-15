@@ -1,30 +1,23 @@
 [
     {
         "id": "test-1",
-        "name": "Sarah & Yohan",
-        "country": "Canada",
-        "image": "/images/testimonials/sarah-yohan.jpg",
-        "quote": "One of the best agencies to pursue our dreams. Highly recommended."
+        "name": "Adithya Vinod",
+        "country": "Mavelikara",
+        "image": "/images/testimonials/adithya vinod.jpeg",
+        "quote": "Saathi Global guided me through the entire admission process. I'm now proudly placed at St Johns Medical College!"
     },
     {
         "id": "test-2",
-        "name": "Priya Sharma",
-        "country": "Australia",
-        "image": "/images/testimonials/priya.jpg",
-        "quote": "Saathi Global made my dream of studying in Australia a reality. Their guidance was invaluable."
+        "name": "Jisna Jose",
+        "country": "Pathanamthitta",
+        "image": "/images/testimonials/Jisna Jose.jpeg",
+        "quote": "Thanks to Saathi Global's expert support, I was able to achieve my goals. Truly grateful for their dedication!"
     },
     {
         "id": "test-3",
-        "name": "Rahul Patel",
-        "country": "United Kingdom",
-        "image": "/images/testimonials/rahul.jpg",
-        "quote": "Professional team, transparent process. Got my UK visa within weeks. Thank you Saathi Global!"
-    },
-    {
-        "id": "test-4",
-        "name": "Ananya Desai",
-        "country": "USA",
-        "image": "/images/testimonials/ananya.jpg",
-        "quote": "From university selection to visa approval, they were with me every step of the way."
+        "name": "Lekshmi Suresh",
+        "country": "Mavelikara",
+        "image": "/images/testimonials/Lekshmi Suresh.jpeg",
+        "quote": "Saathi Global's team was incredibly supportive throughout my journey. Highly recommend their services!"
     }
 ]

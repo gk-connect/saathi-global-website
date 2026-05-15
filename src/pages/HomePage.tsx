@@ -10,6 +10,7 @@ import ServicesSection from "@/components/home/ServicesSection";
 import TestimonialsSection from "@/components/home/TestimonialsSection";
 import StatsCounter from "@/components/home/StatsCounter";
 import PartnersCarousel from "@/components/home/PartnersCarousel";
+import PlacementPartnersCarousel from "@/components/home/PlacementPartnersCarousel";
 import EnquiryFormModal from "@/components/forms/EnquiryFormModal";
 
 import slidersData from "../../public/data/sliders.json";
@@ -42,6 +43,7 @@ export default function HomePage() {
         <TestimonialsSection testimonials={testimonialsData} />
         <StatsCounter />
         <PartnersCarousel />
+        <PlacementPartnersCarousel />
       </main>
       <Footer />
       <EnquiryFormModal
