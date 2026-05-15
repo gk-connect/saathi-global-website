@@ -1,34 +1,42 @@
 [
     {
         "id": "svc-1",
-        "image": "/images/services/counselling.jpg",
-        "name": "Healthcare Recruitment",
-        "description": "Placement of B.Sc Nursing, GNM Nursing, Dialysis Technicians, Lab Technicians, and Allied Healthcare Professionals — for both freshers and experienced candidates, plus end-to-end hospital staffing solutions.",
+        "image": "/images/services/internship.png",
+        "name": "Internship & Training Support",
+        "description": "Saathi Global Solutions is committed to creating meaningful internship opportunities for students and healthcare professionals across India. We connect candidates with reputed hospitals, healthcare institutions, and clinical centers in major cities. Our internship services help students gain real-time clinical exposure, practical hands-on training, professional mentorship, and industry-ready skills.",
         "linkText": "Enquire Now",
-        "linkAction": "openEnquiryForm"
+        "linkAction": "enquiry"
     },
     {
         "id": "svc-2",
-        "image": "/images/services/course-advice.jpg",
-        "name": "Career Counseling & Admissions",
-        "description": "Guidance for higher education in India and abroad, admission support for nursing, paramedical, and professional courses, and personalized skill development & career planning.",
+        "image": "/images/services/overseas.png",
+        "name": "Overseas Opportunities",
+        "description": "Specializes in international healthcare and professional placement services, connecting skilled candidates with career opportunities across GCC countries and Europe. Services include candidate screening, career guidance, documentation support, interview preparation, and end-to-end placement assistance.",
         "linkText": "Enquire Now",
-        "linkAction": "openEnquiryForm"
+        "linkAction": "enquiry"
     },
     {
         "id": "svc-3",
-        "image": "/images/services/visa.jpg",
-        "name": "Overseas Opportunities",
-        "description": "Assistance for study abroad and international placements, complete documentation support, interview preparation, and pre-departure guidance.",
+        "image": "/images/services/health.png",
+        "name": "Health Care Recruitment",
+        "description": "Provides professional placement services across India, connecting qualified candidates with leading hospitals, healthcare institutions, diagnostic centers, and other reputed organizations. Services include career counseling, profile screening, interview coordination, employer matching, documentation support, and end-to-end placement assistance.",
         "linkText": "Enquire Now",
-        "linkAction": "openEnquiryForm"
+        "linkAction": "enquiry"
     },
     {
         "id": "svc-4",
-        "image": "/images/services/application.jpg",
-        "name": "Internship & Training Support",
-        "description": "Hospital internships for nursing and allied healthcare students, industry partnerships, academic collaborations, and professional finishing programs.",
+        "image": "/images/services/finishing.png",
+        "name": "Finishing School",
+        "description": "Finishing School is designed to prepare nursing and healthcare professionals for successful careers in India and abroad through industry-focused skill development programs. Offers specialized certificate programs in advanced nursing and clinical specialties, language training, and communication development for international opportunities.",
         "linkText": "Enquire Now",
-        "linkAction": "openEnquiryForm"
+        "linkAction": "enquiry"
+    },
+    {
+        "id": "svc-5",
+        "image": "/images/services/career.png",
+        "name": "Career Counseling",
+        "description": "Provides complete admission guidance for students seeking higher education in leading institutions across India and internationally. Services include career counseling, course selection, university shortlisting, application processing, documentation support, visa assistance, scholarship guidance, and pre-departure support.",
+        "linkText": "Enquire Now",
+        "linkAction": "enquiry"
     }
 ]
