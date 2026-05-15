@@ -38,7 +38,7 @@ export default function HomePage() {
         <CategoryCards onEnquireClick={openEnquiry} />
         <SecondarySlider sliders={slidersData} onEnquireClick={openEnquiry} />
         <DestinationsSection destinations={destinationsData} />
-        <EventsSection events={eventsData} onEnquireClick={openEnquiry} />
+        {/* <EventsSection events={eventsData} onEnquireClick={openEnquiry} /> */}
         <ServicesSection services={servicesData} onEnquireClick={openEnquiry} />
         <TestimonialsSection testimonials={testimonialsData} />
         <StatsCounter />

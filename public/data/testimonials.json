@@ -19,5 +19,12 @@
         "country": "Mavelikara",
         "image": "/images/testimonials/Lekshmi Suresh.jpeg",
         "quote": "Saathi Global's team was incredibly supportive throughout my journey. Highly recommend their services!"
+    },
+    {
+        "id": "test-4",
+        "name": "Reshma S",
+        "country": "Mavelikara",
+        "image": "/images/testimonials/Reshma.jpeg",
+        "quote": "With Saathi Global's support, I secured my dream job abroad. Thank you for making it possible!"
     }
 ]

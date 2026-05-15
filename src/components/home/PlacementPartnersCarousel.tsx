@@ -7,9 +7,11 @@ const placementPartners = [
   "Roma Hospital",
   "Jade Hospital with Robotic Surgery",
   "Nefroplus",
-  "Agasthya",
-  "Everest Hospital",
-  "Touch Hospital",
+  "Agasthya hospitals",
+  "Everest hospital",
+  "Touch hospital",
+  "Arundathi medical. College",
+  "Aruna hospital",
 ];
 
 export default function PlacementPartnersCarousel() {
