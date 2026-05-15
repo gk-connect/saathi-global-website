@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from "react";
 const stats = [
   {
     label: "Partner Universities",
-    value: 700,
+    value: 100,
     suffix: "+",
     gradient: "from-blue-500 to-indigo-600",
     icon: (
@@ -14,20 +14,8 @@ const stats = [
     ),
   },
   {
-    label: "Countries",
-    value: 30,
-    suffix: "+",
-    gradient: "from-emerald-500 to-teal-600",
-    icon: (
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-white">
-        <circle cx="12" cy="12" r="10" />
-        <path d="M2 12h20M12 2a15.3 15.3 0 0 1 0 20M12 2a15.3 15.3 0 0 0 0 20" />
-      </svg>
-    ),
-  },
-  {
     label: "Branches",
-    value: 28,
+    value: 10,
     suffix: "+",
     gradient: "from-fuchsia-500 to-purple-600",
     icon: (
@@ -39,7 +27,7 @@ const stats = [
   },
   {
     label: "Admissions",
-    value: 60000,
+    value: 10000,
     suffix: "+",
     gradient: "from-orange-500 to-pink-600",
     icon: (
@@ -144,7 +132,7 @@ export default function StatsCounter() {
             </span>
           </h2>
         </div>
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
           {stats.map((stat) => (
             <StatItem key={stat.label} {...stat} />
           ))}
